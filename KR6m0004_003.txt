@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:58.280907
+#+DATE: 2015-08-30 20:53:03.496463
 #+TITLE: 般若燈論釋
 #+PROPERTY: CBETA_ID T30n1566
 #+PROPERTY: ID KR6m0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1566
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0004_T_003-0059b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 
 <pb:KR6m0004_T_003-0059c>¶
 ¶
-
- 《般若燈論》釋卷第三¶
+《般若燈論》釋卷第三¶
 ¶
 偈本龍樹菩薩　釋論分別明菩薩¶
 大唐中印度三藏波羅頗蜜多羅譯¶
 
-2觀去來品
-:PROPERTIES:
-:head: 觀去來品第二
-:END:
-¶
+觀去來品第二¶
 
 復次初品已說一切法體無起對治。令人信¶
 解。今復次明不來不去緣起差別。使物識知。¶
@@ -462,7 +457,7 @@
 #+END_VERSE
 」¶
 
-釋曰。譬如那羅延𥎞逐彼竭株嗢羯遮阿修¶
+釋曰。譬如那羅延[矛*(替-曰+貝)]逐彼竭株嗢羯遮阿修¶
 羅王。彼亦如是。去等過失。常隨逐汝。復次有¶
 人言。第一義中。去法是有。何以故。以相違¶
 故。謂處處相違。相待可得。譬如明暗如是與¶

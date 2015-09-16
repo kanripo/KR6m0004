@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:58.314310
+#+DATE: 2015-08-30 20:53:03.526778
 #+TITLE: 般若燈論釋
 #+PROPERTY: CBETA_ID T30n1566
 #+PROPERTY: ID KR6m0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1566
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0004_T_004-0065c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《般若燈論》釋卷第四¶
+《般若燈論》釋卷第四¶
 ¶
 偈本龍樹菩薩　釋論分別明菩薩¶
 大唐中印度三藏波羅頗蜜多羅譯¶
 
-3觀六根品
-:PROPERTIES:
-:head: 觀六根品第三
-:END:
-¶
+觀六根品第三¶
 
 復次。成立此品。其相云何。為遮起故。令人識¶
 知內六入等無自性義。故說此品。又遮去執。¶
@@ -407,11 +402,7 @@
 
 釋觀根品竟。¶
 
-4觀五陰品
-:PROPERTIES:
-:head: 《般若燈論》釋觀五陰品第四
-:END:
-¶
+《般若燈論》釋觀五陰品第四¶
 
 復次欲令識知陰無性義。故有此品。有人言。¶
 第一義中。有諸入等。何以故。以陰攝故。若其¶
@@ -724,11 +715,7 @@
 
 釋觀五陰品竟。¶
 
-5觀六界品
-:PROPERTIES:
-:head: 《般若燈論》釋觀六界品第五
-:END:
-¶
+《般若燈論》釋觀六界品第五¶
 
 復次諸法無體。由空所對治故。今復欲明地¶
 等諸界無自性義。有此品起。此義云何。觀陰¶

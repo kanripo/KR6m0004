@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:52:58.482705
+#+DATE: 2015-08-30 20:53:03.701974
 #+TITLE: 般若燈論釋
 #+PROPERTY: CBETA_ID T30n1566
 #+PROPERTY: ID KR6m0004
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 30, No. 1566
 #+PROPERTY: VOL 30
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6m0004_T_009-0093b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 9
 ¶
 ¶
-
- 《般若燈論》釋卷第九¶
+《般若燈論》釋卷第九¶
 ¶
 偈本龍樹菩薩　釋論分別明菩薩¶
 大唐中印度三藏波羅頗蜜多羅譯¶
 
-15觀有無品
-:PROPERTIES:
-:head: 觀有無品第十五
-:END:
-¶
+觀有無品第十五¶
 
 復次空所對治若有若無。為令他解緣起諸¶
 法不斷不常故。有此品起。外人言。汝說諸法¶
@@ -333,11 +328,7 @@
 
 釋觀有無品竟。¶
 
-16觀縛解品
-:PROPERTIES:
-:head: 《般若燈論》釋觀縛解品第十六
-:END:
-¶
+《般若燈論》釋觀縛解品第十六¶
 
 復次已遮有無離斷常過。此中為明空所對¶
 治繫縛解脫無自性義。此品次生。有人言。第¶
